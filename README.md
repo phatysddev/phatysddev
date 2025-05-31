@@ -1,17 +1,13 @@
-Hi there 👋
-===================================================================================================================================================================================
+# Hi there 👋
+==============
 
-<!--
-**phatysddev/phatysddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Full-Stack Developer
+--------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 I'm from **Thailand**  
+💻 Passionate about building web applications and backend services  
+🚀 Currently working at **Codeslabs Tech Co., Ltd.**  
+🌱 Learning more about **DevOps**, **DevSecOps**, and cloud-native development  
+🛠️ Tech Stack: TypeScript, Go, React, Next.js, PostgreSQL, MongoDB  
+🔧 Tools I use: Docker, GitHub Actions, Postman, GCP, DigitalOcean  
+📦 Exploring Rust and Python in my free time
